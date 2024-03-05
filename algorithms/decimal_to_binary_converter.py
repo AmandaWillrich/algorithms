@@ -1,4 +1,5 @@
 # Converts decimal to binary
+## STILL NEEDS REFACTORING
 
 def convert_to_binary(decimal_number):
 
