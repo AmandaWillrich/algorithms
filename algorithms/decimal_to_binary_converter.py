@@ -39,6 +39,3 @@ def _find_starting_multiplier(decimal_number):
         multiplier *= 2
 
     return multiplier
-
-
-print(convert_to_binary(4529))
